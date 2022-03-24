@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9F2C14C2-7567-6CBC-A8FB-6FF284889741}</ProjectGuid>
+    <ProjectGuid>{7666506E-D3E8-43F7-C2A5-154852FBC0ED}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -78,37 +78,37 @@
     <Compile Include="Assets\Plugins\UnityPurchasing\Editor\IAPButtonEditor.cs" />
     <None Include="Assets\Plugins\UnityPurchasing\Editor\IAPGeneratedCredentials.cs.template" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -306,58 +306,58 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="DarkArtsStudios.ScreenshotCreator.Runtime">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/DarkArts Studios/Screenshot Creator/DarkArtsStudios.ScreenshotCreator.Runtime.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/DarkArts Studios/Screenshot Creator/DarkArtsStudios.ScreenshotCreator.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="DarkArtsStudios.ScreenshotCreator.Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/DarkArts Studios/Screenshot Creator/Editor/DarkArtsStudios.ScreenshotCreator.Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/DarkArts Studios/Screenshot Creator/Editor/DarkArtsStudios.ScreenshotCreator.Editor.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/DOTween/DOTween.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="UDP">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UDP/UDP.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UDP/UDP.dll</HintPath>
     </Reference>
     <Reference Include="Editor">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
     </Reference>
     <Reference Include="Purchasing.Common">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
     </Reference>
     <Reference Include="Stores">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
     </Reference>
     <Reference Include="Apple">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
     </Reference>
     <Reference Include="AppleCore">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleCore.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleCore.dll</HintPath>
     </Reference>
     <Reference Include="AppleMacos">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleMacos.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Apple/AppleMacos.dll</HintPath>
     </Reference>
     <Reference Include="FacebookStore">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
     </Reference>
     <Reference Include="Security">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
     </Reference>
     <Reference Include="Tizen">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
     </Reference>
     <Reference Include="winrt">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/PopCop/Projects/Balls Out 3D/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/PopCop/Projects/BallsOut3D/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.19f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -716,7 +716,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{9D709E23-B7FC-4CA5-5AFD-C88311FEF5F9}</Project>
+      <Project>{73D2CEB3-B604-C5A9-AB0A-9A25528B341A}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

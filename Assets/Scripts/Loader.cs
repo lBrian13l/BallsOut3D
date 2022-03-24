@@ -28,7 +28,7 @@ public class Loader : MonoBehaviour
         }
         finally
         {
-            SceneManager.LoadScene(1);
+            //SceneManager.LoadScene(1);
         }
     }
 
@@ -42,7 +42,7 @@ public class Loader : MonoBehaviour
         }
         finally
         {
-            SceneManager.LoadScene(1);
+            //SceneManager.LoadScene(1);
         }
     }
 }
