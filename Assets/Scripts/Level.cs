@@ -394,7 +394,10 @@ public class Level : MonoBehaviour, IWaveObserver, ILevelObserver, ICaptureBallO
                 ball.transform.localPosition = Vector3.right * (j % sq - sq / 2) * 0.1f + Vector3.down * (j / sq - sq / 2) * 0.1f + Vector3.forward * d * 0.1f;
 
                 var scale = RemoteSettings.GetFloat(ballSize == 0 ? "ballSize0" : ballSize == 1 ? "ballSize1" : "ballSize2", 1f);
-                ball.transform.localScale *= (scale - 1f) * (totalMax - max) / totalMax + 1f;
+                if (playerState.level == 2)
+                    ball.transform.localScale *= 0.5f;
+                else
+                    ball.transform.localScale *= (scale - 1f) * (totalMax - max) / totalMax + 1f;
 
                 balls.Add(ball);
                 count++;

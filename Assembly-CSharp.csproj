@@ -200,6 +200,7 @@
     <None Include="Assets\MarvelousTechniques\Shaders\WaterPool.shader" />
     <None Include="Assets\MarvelousTechniques\Shaders\CustomLightingSimple.shader" />
     <None Include="Assets\MarvelousTechniques\Shaders\CustomLighting.shader" />
+    <None Include="Assets\Hand Painted Seamless Wood Texture\Documentation\Documentation.txt" />
     <None Include="Assets\MarvelousTechniques\Shaders\LinearGradientBG.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />

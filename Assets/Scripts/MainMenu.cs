@@ -45,8 +45,8 @@ public class MainMenu : MonoBehaviour
 
     public void SelectLevel(int levelNumber)
     {
-        if (levelNumber == 120)
-            return;
+        //if (levelNumber == 120)
+        //    return;
         //PlrState.level = --levelNumber;
         PlayerPrefs.SetInt("level", --levelNumber);
         SceneManager.LoadScene(1);
