@@ -148,6 +148,13 @@ MonoBehaviour:
   ball: {fileID: 4803738439568453723, guid: ef7f45f562fed4940b8d891a8ea3dc88, type: 3}
   ballBig: {fileID: 4803738439568453723, guid: b7516d6d81dd31c44af5ec7ddbb50a19, type: 3}
   ballMid: {fileID: 4803738439568453723, guid: 6e1e1ab17a5d0ca49aabbbb775f4175e, type: 3}
+  ExtraBalls:
+  - {fileID: 1258999798110631522, guid: 23609eaa3ca03fc4299dad29f2cb44d5, type: 3}
+  - {fileID: 5930720016533242985, guid: 6700d74193a1c9a48a6e90995ae3f1a8, type: 3}
+  - {fileID: 1509598282640958454, guid: f834b371778461e4682f1e823e1ac3e6, type: 3}
+  - {fileID: 4366891364645808958, guid: 9f17acc8cb9414a49af5637e63745b24, type: 3}
+  - {fileID: 4502331485486710134, guid: 17f4f7cf0000d5446b67c5fe84a91054, type: 3}
+  - {fileID: 6859229327597385286, guid: a8bf68a6b1835c84d9cbb326ac933b20, type: 3}
   wavesCount: 3
   backgroundsStr:
   - Assets/Resources/Textures/BG1.png

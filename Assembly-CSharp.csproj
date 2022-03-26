@@ -136,6 +136,7 @@
     <Compile Include="Assets\Scripts\AdaptiveBottomBanner.cs" />
     <Compile Include="Assets\Scripts\AdsAnaliticsManager.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
+    <Compile Include="Assets\Scripts\BallSpeedLimit.cs" />
     <Compile Include="Assets\Scripts\BallsVibrationSystem.cs" />
     <Compile Include="Assets\Scripts\Exit.cs" />
     <Compile Include="Assets\Scripts\FinishMenu.cs" />
