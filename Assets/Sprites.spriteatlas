@@ -31,13 +31,14 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 127c08cf5e8fce443a0fc345a1cd728b, type: 3}
-    totalSpriteSurfaceArea: 1022848
+    totalSpriteSurfaceArea: 1088384
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 58dd723046072fa41b7639ec1a04214d, type: 3}
   - {fileID: 21300000, guid: 77dc2850dcf2b9d42a5b0a5eb18c235a, type: 3}
   - {fileID: 21300000, guid: a2812db308e13b34abdb27cf4efd11b5, type: 3}
+  - {fileID: 21300000, guid: 734418d31a9faad4e91f95293433b794, type: 3}
   - {fileID: 21300000, guid: f92f3e74f0334674388eeabf89411ec3, type: 3}
   - {fileID: 21300000, guid: 4884ee856c98f2b4fa852ba2e97dc46e, type: 3}
   - {fileID: 21300000, guid: 74097ec51b363cc4d9c0a55cf7398f3a, type: 3}
@@ -58,6 +59,7 @@ SpriteAtlas:
   - SoundOffButton
   - ADSButton
   - ButtonCircle
+  - Circle Soft
   - WhiteDotEmpty
   - bg_balls
   - VibroOffButton

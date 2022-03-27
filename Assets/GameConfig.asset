@@ -155,6 +155,8 @@ MonoBehaviour:
   - {fileID: 4366891364645808958, guid: 9f17acc8cb9414a49af5637e63745b24, type: 3}
   - {fileID: 4502331485486710134, guid: 17f4f7cf0000d5446b67c5fe84a91054, type: 3}
   - {fileID: 6859229327597385286, guid: a8bf68a6b1835c84d9cbb326ac933b20, type: 3}
+  WaterDrop: {fileID: 7632774164394773280, guid: 95ae265b494725644a7049d7435f2447,
+    type: 3}
   wavesCount: 3
   backgroundsStr:
   - Assets/Resources/Textures/BG1.png
