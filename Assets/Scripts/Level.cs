@@ -23,6 +23,7 @@ public class Level : MonoBehaviour, IWaveObserver, ILevelObserver, ICaptureBallO
     public GameConfig gameConfig;
 
     private bool _waterPoolled;
+    public GameObject WaterCamera;
 
     public float size = 2f;
 
@@ -291,6 +292,11 @@ public class Level : MonoBehaviour, IWaveObserver, ILevelObserver, ICaptureBallO
         labyrinths[0].transform.rotation = Quaternion.identity;
 
         ActivateBalls(activeLab);
+
+        if (playerState.level == 4)
+            WaterCamera.SetActive(true);
+        else
+            WaterCamera.SetActive(false);
     }
 
     static private IEnumerator SpawnNotifications()
@@ -377,7 +383,7 @@ public class Level : MonoBehaviour, IWaveObserver, ILevelObserver, ICaptureBallO
         var deep = 2;
 
         if (playerState.level == 4)
-            max = 200;
+            max = 190;
 
         var sq = (int)Mathf.Sqrt(max / 5) + 1;
         var count = 0;
@@ -731,7 +737,7 @@ public class Level : MonoBehaviour, IWaveObserver, ILevelObserver, ICaptureBallO
     private void WaterPoolObjectOut()
     {
         var deep = 2;
-        int max = 200;
+        int max = 190;
         var sq = (int)Mathf.Sqrt(max / 5) + 1;
         int count = 0;
         for (var d = -deep; d <= deep; d++)
